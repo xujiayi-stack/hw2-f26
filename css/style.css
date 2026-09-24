@@ -1,5 +1,5 @@
 body {
-  font-family: Arial, Verdana, sans-serif;
+  font-family: Arial, Verdana;
   background-color: #000000;
   color: #ffffff;
   margin: 20px 20px 0;
@@ -57,7 +57,7 @@ div {
 }
 
 .blue h2,
-img.blue p {
+.blue p {
   color: #c4c4c4;
 }
 
